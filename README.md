@@ -1,6 +1,4 @@
-Here's a GitHub README file for the Comprehensive Web Security Application project:
 
----
 
 # Comprehensive Web Security Application
 
