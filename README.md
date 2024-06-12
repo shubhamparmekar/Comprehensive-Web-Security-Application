@@ -35,7 +35,7 @@ Welcome to the Comprehensive Web Security Application project. This application 
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/comprehensive-web-security-application.git
+    git clone https://github.com/shubhamparmekar/Comprehensive-Web-Security-Application.git
     ```
 
 2. **Move the Project to XAMPP's `htdocs` Directory**
@@ -76,6 +76,7 @@ Welcome to the Comprehensive Web Security Application project. This application 
 2. **Register and Login**
 
     - Log in with your newly created credentials.
+    - In config_settings.php make sure to put the email and username and password according to your convenience.
 
 3. **Explore the Features**
 
