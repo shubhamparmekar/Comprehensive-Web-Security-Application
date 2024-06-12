@@ -1,9 +1,9 @@
 <?php $settings = array (
   'site_url' => 'http://localhost',
   'projectsecurity_path' => 'http://localhost/source',
-  'username' => 'parmekarshubham7@gmail.com',
-  'password' => 'cb69775effd93fc34ef38dfbfcdc4c593b1a3d8e7ab70c0f05d627dbc5cbd298',
-  'email' => 'accelstack@gmail.com',
+  'username' => '<your email>',
+  'password' => '<your encrypted password>',
+  'email' => '<your email>',
   'project_security' => 1,
   'mail_notifications' => 0,
   'test_integration' => 0,
